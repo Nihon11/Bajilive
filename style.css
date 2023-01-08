@@ -1,0 +1,114 @@
+body	{background-image:url('https://www.pcclean.io/wp-content/uploads/2020/4/E7BFb2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 120%;
+    color: greenyellow;
+    }
+
+.mar    {
+    color: yellow;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 20px;
+    font font-family:sans-serif;
+}
+h2  {
+    border:1px solid green;
+    border-radius: 10px;
+    color: brown;
+    box-shadow: 7px 7px;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    background-color: chartreuse;
+    width:35%;
+    text-align: center;
+    height:30px;
+    margin:4px 30%;
+}
+h3  {
+    border:1px solid green;
+    border-radius: 10px;
+    color: brown;
+    box-shadow: 7px 7px;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    background-color: chartreuse;
+    width:30%;
+    text-align: center;
+    height:40px;
+    margin:auto;
+}
+ 
+.nagivar    {
+    background-color:#444;
+    width:60%;
+    overflow:auto;
+    margin:2% 18%;
+    
+}
+
+.nagivar a  {
+    color:white;
+    text-decoration:none;
+    float:left;
+    padding:10px 25px;
+    font-size:15px;}
+
+.nagivar a:hover {background-color: red;}
+.act {background-color: green;}
+
+
+
+
+.pink-bg{
+    border-radius: 10px;}
+
+.container  {margin-bottom: 100px;}
+
+.btn{border-radius: 10px;
+    border:  #FF136F;
+    color: white ;
+    padding: 10px 26px;
+    background-image: linear-gradient(to bottom,#FF589B 0%, #FF136F 100%);
+    font-weight: 700;}
+
+
+.price{color: #FF136F;}
+.carousel-item{padding: 20px 40px;}
+.cat1, .cat2, .cat3{padding: 20px 20px;
+                     border-radius: 8px;
+                    height: 100px;
+                    }
+#carousel-inner{height: 550px;}
+
+
+.catagories h1{color: white;}
+.catagories img {width: 100px;}
+.card{border: none;
+    background-color:#000000;
+    box-shadow: 5px 5px 10px lightslategray ;}
+    footer{text-align: center;}
+.card-footer{border: none;
+    background-color:#000000;}
+    #subf{height: 300px;}
+.jam img {height: 400px;}
+.pam img {height: 400px;}
+
+
+.bgk{margin-left: 100px;}
+
+#jmk{margin-left: 100px;
+    padding-left: 100px;
+    padding-right: 370px;
+    }
+
+.bgk img {height:300px;
+    border-radius: 12px;
+    width: 405px;}
+
+
+@media screen and (max-width:500px;){ 
+    .nagivar a{
+    float:none;
+    display:block;}
+}
+
+
+.logo img{height:100px;}
