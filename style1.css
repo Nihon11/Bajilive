@@ -15,7 +15,8 @@ body{background-image:url('https://www.pcclean.io/wp-content/uploads/2020/4/E7BF
     }
 .marq    {
         color: yellow;
-        font-size: 30px;}
+        font-size: 30px;
+        text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;}
 
 .container  {margin-bottom: 50px;}
 .text-only  {margin-left: 0px;}
@@ -117,4 +118,7 @@ footer{text-align: center;}
         padding: 15px;
         text-align: center;
       }
-      
+    .Tutorials  {cursor: pointer;}
+
+    .colsgh {background-color: white;
+            color: black;}
