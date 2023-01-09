@@ -5,8 +5,7 @@
 
 .carousel-inner{height: 225px;
     width: 500px;}
-.carousel-inner img {height: 220px; 
-                    }
+.carousel-inner img {height: 220px;}
 body{background-image:url('https://www.pcclean.io/wp-content/uploads/2020/4/E7BFb2.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -89,7 +88,8 @@ footer{text-align: center;}
                 background-color:gray;}
 #subf{height: 300px;}
 .jam img {height: 400px;}
-.pam img {height: 400px;}
+.pam img {height: 400px;
+          width: 100%;}
                             
                             
 .bgk{margin-left: 0px;}
