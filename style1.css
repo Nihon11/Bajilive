@@ -28,7 +28,7 @@ h2  {
     box-shadow: 7px 7px;
     text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     background-color: chartreuse;
-    width:35%;
+    width:39%;
     text-align: center;
     height:30px;
     margin:4px 30%;}
@@ -62,7 +62,7 @@ h3  {
                          border-radius: 8px;
                         height: 100px;
                         }
-    .bgk img {height:300px;
+    .bgk img {height:;
              border-radius: 12px;
             width: 405px;}
 
@@ -98,23 +98,23 @@ footer{text-align: center;}
      padding-left: 100px;
     padding-right: 370px;}
                         
-    div.gallery {
+    .gallery {
         margin: 5px;
         border: 1px solid #ccc;
         float: left;
         width: 180px;
       }
       
-      div.gallery:hover {
+      .gallery:hover {
         border: 1px solid #777;
       }
       
-      div.gallery img {
+      .gallery img {
         width: 100%;
         height: 150px;
       }
       
-      div.desc {
+      .desc {
         padding: 15px;
         text-align: center;
       }
@@ -132,3 +132,32 @@ footer{text-align: center;}
     padding: 4px 12px;
     color: darkred;
   }
+
+
+  .promotional-offer img{ max-width: 100%;
+                          max-height:120% ;
+                          margin: 15px;
+                          padding-bottom: 20px;
+                          border-radius: 1px solid red;
+
+  }
+
+.rasel img{ box-shadow: 0 0 2px 1px rgba (0,140,186,0.5);
+            width: 550px;
+            height: 1080px;
+            margin-bottom: 50px;
+            margin-right: 15px;
+            border:2px solid #FF0000;
+
+}
+
+.rasel img{
+  margin-left: 5px;
+  height: 600px;
+  width: 420px;
+}
+.classic-ramp{border: 3px solid red;
+            box-shadow: 5px 5px grey;
+          background-color: yellow;
+        color: #0000FF;
+      text-align: center;}
